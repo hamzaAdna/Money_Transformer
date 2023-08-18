@@ -1,0 +1,60 @@
+﻿@model Tahaluf.Models.Transaction
+
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/_LayoutAdminPanel.cshtml";
+}
+
+<h1>Create</h1>
+
+<h4>Transaction</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Transvlaue" class="control-label"></label>
+                <input asp-for="Transvlaue" class="form-control" />
+                <span asp-validation-for="Transvlaue" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Senderiban" class="control-label"></label>
+                <input asp-for="Senderiban" class="form-control" />
+                <span asp-validation-for="Senderiban" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Receiveriban" class="control-label"></label>
+                <input asp-for="Receiveriban" class="form-control" />
+                <span asp-validation-for="Receiveriban" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Commission" class="control-label"></label>
+                <input asp-for="Commission" class="form-control" />
+                <span asp-validation-for="Commission" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Transdate" class="control-label"></label>
+                <input asp-for="Transdate" class="form-control" />
+                <span asp-validation-for="Transdate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Enddate" class="control-label"></label>
+                <input asp-for="Enddate" class="form-control" />
+                <span asp-validation-for="Enddate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Walletid" class="control-label"></label>
+                <select asp-for="Walletid" class ="form-control" asp-items="ViewBag.Walletid"></select>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+

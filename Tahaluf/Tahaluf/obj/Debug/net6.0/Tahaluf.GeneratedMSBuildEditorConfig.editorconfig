@@ -1,0 +1,253 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Tahaluf
+build_property.RootNamespace = Tahaluf
+build_property.ProjectDir = C:\Users\hamza\source\repos\Tahaluf\Tahaluf\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\hamza\source\repos\Tahaluf\Tahaluf
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/hamza/source/repos/Tahaluf/Tahaluf/Views/Aboutus/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXR1c1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hamza/source/repos/Tahaluf/Tahaluf/Views/Aboutus/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXR1c1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hamza/source/repos/Tahaluf/Tahaluf/Views/Aboutus/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXR1c1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hamza/source/repos/Tahaluf/Tahaluf/Views/Aboutus/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXR1c1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hamza/source/repos/Tahaluf/Tahaluf/Views/Aboutus/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXR1c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hamza/source/repos/Tahaluf/Tahaluf/Views/Banks/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFua3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hamza/source/repos/Tahaluf/Tahaluf/Views/Banks/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFua3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hamza/source/repos/Tahaluf/Tahaluf/Views/Banks/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFua3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hamza/source/repos/Tahaluf/Tahaluf/Views/Banks/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFua3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hamza/source/repos/Tahaluf/Tahaluf/Views/Banks/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFua3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hamza/source/repos/Tahaluf/Tahaluf/Views/Homes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hamza/source/repos/Tahaluf/Tahaluf/Views/Homes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hamza/source/repos/Tahaluf/Tahaluf/Views/Homes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hamza/source/repos/Tahaluf/Tahaluf/Views/Homes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hamza/source/repos/Tahaluf/Tahaluf/Views/Homes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hamza/source/repos/Tahaluf/Tahaluf/Views/MainPage/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFpblBhZ2VcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hamza/source/repos/Tahaluf/Tahaluf/Views/Payments/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF5bWVudHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hamza/source/repos/Tahaluf/Tahaluf/Views/Payments/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF5bWVudHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hamza/source/repos/Tahaluf/Tahaluf/Views/Payments/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF5bWVudHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hamza/source/repos/Tahaluf/Tahaluf/Views/Payments/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF5bWVudHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hamza/source/repos/Tahaluf/Tahaluf/Views/Payments/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF5bWVudHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hamza/source/repos/Tahaluf/Tahaluf/Views/Role1/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZTFcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hamza/source/repos/Tahaluf/Tahaluf/Views/Role1/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZTFcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hamza/source/repos/Tahaluf/Tahaluf/Views/Role1/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZTFcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hamza/source/repos/Tahaluf/Tahaluf/Views/Role1/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZTFcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hamza/source/repos/Tahaluf/Tahaluf/Views/Role1/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZTFcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hamza/source/repos/Tahaluf/Tahaluf/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hamza/source/repos/Tahaluf/Tahaluf/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hamza/source/repos/Tahaluf/Tahaluf/Views/Testimonials/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdGltb25pYWxzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hamza/source/repos/Tahaluf/Tahaluf/Views/Testimonials/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdGltb25pYWxzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hamza/source/repos/Tahaluf/Tahaluf/Views/Testimonials/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdGltb25pYWxzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hamza/source/repos/Tahaluf/Tahaluf/Views/Testimonials/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdGltb25pYWxzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hamza/source/repos/Tahaluf/Tahaluf/Views/Testimonials/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdGltb25pYWxzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hamza/source/repos/Tahaluf/Tahaluf/Views/Transactions/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhbnNhY3Rpb25zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hamza/source/repos/Tahaluf/Tahaluf/Views/Transactions/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhbnNhY3Rpb25zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hamza/source/repos/Tahaluf/Tahaluf/Views/Transactions/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhbnNhY3Rpb25zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hamza/source/repos/Tahaluf/Tahaluf/Views/Transactions/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhbnNhY3Rpb25zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hamza/source/repos/Tahaluf/Tahaluf/Views/Transactions/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhbnNhY3Rpb25zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hamza/source/repos/Tahaluf/Tahaluf/Views/Useracounts/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcmFjb3VudHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hamza/source/repos/Tahaluf/Tahaluf/Views/Useracounts/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcmFjb3VudHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hamza/source/repos/Tahaluf/Tahaluf/Views/Useracounts/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcmFjb3VudHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hamza/source/repos/Tahaluf/Tahaluf/Views/Useracounts/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcmFjb3VudHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hamza/source/repos/Tahaluf/Tahaluf/Views/Useracounts/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcmFjb3VudHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hamza/source/repos/Tahaluf/Tahaluf/Views/User/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hamza/source/repos/Tahaluf/Tahaluf/Views/Visacards/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlzYWNhcmRzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hamza/source/repos/Tahaluf/Tahaluf/Views/Visacards/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlzYWNhcmRzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hamza/source/repos/Tahaluf/Tahaluf/Views/Visacards/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlzYWNhcmRzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hamza/source/repos/Tahaluf/Tahaluf/Views/Visacards/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlzYWNhcmRzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hamza/source/repos/Tahaluf/Tahaluf/Views/Visacards/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlzYWNhcmRzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hamza/source/repos/Tahaluf/Tahaluf/Views/Wallets/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2FsbGV0c1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hamza/source/repos/Tahaluf/Tahaluf/Views/Wallets/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2FsbGV0c1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hamza/source/repos/Tahaluf/Tahaluf/Views/Wallets/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2FsbGV0c1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hamza/source/repos/Tahaluf/Tahaluf/Views/Wallets/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2FsbGV0c1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hamza/source/repos/Tahaluf/Tahaluf/Views/Wallets/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2FsbGV0c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hamza/source/repos/Tahaluf/Tahaluf/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hamza/source/repos/Tahaluf/Tahaluf/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hamza/source/repos/Tahaluf/Tahaluf/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-jz1d1n8q4x
+
+[C:/Users/hamza/source/repos/Tahaluf/Tahaluf/Views/Shared/_LayoutAdminPanel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRBZG1pblBhbmVsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-3ct6kwpthg
+
+[C:/Users/hamza/source/repos/Tahaluf/Tahaluf/Views/Shared/_LayoutUserPanel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRVc2VyUGFuZWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-q3k5wsndwf

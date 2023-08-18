@@ -1,0 +1,989 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Tahaluf.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Tahaluf.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsHome\\css\\main.css",
+      "PackagePath": "staticwebassets\\assetsHome\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsHome\\img\\about-2.jpg",
+      "PackagePath": "staticwebassets\\assetsHome\\img\\about-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsHome\\img\\about.jpg",
+      "PackagePath": "staticwebassets\\assetsHome\\img\\about.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsHome\\img\\apple-touch-icon.png",
+      "PackagePath": "staticwebassets\\assetsHome\\img\\apple-touch-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsHome\\img\\chefs\\chefs-1.jpg",
+      "PackagePath": "staticwebassets\\assetsHome\\img\\chefs\\chefs-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsHome\\img\\chefs\\chefs-2.jpg",
+      "PackagePath": "staticwebassets\\assetsHome\\img\\chefs\\chefs-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsHome\\img\\chefs\\chefs-3.jpg",
+      "PackagePath": "staticwebassets\\assetsHome\\img\\chefs\\chefs-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsHome\\img\\dffsdfsdfsdfsdfsdfhstats-bg1.jpg",
+      "PackagePath": "staticwebassets\\assetsHome\\img\\dffsdfsdfsdfsdfsdfhstats-bg1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsHome\\img\\events-1.jpg",
+      "PackagePath": "staticwebassets\\assetsHome\\img\\events-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsHome\\img\\events-2.jpg",
+      "PackagePath": "staticwebassets\\assetsHome\\img\\events-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsHome\\img\\events-3.jpg",
+      "PackagePath": "staticwebassets\\assetsHome\\img\\events-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsHome\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\assetsHome\\img\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsHome\\img\\gallery\\gallery-1.jpg",
+      "PackagePath": "staticwebassets\\assetsHome\\img\\gallery\\gallery-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsHome\\img\\gallery\\gallery-2.jpg",
+      "PackagePath": "staticwebassets\\assetsHome\\img\\gallery\\gallery-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsHome\\img\\gallery\\gallery-3.jpg",
+      "PackagePath": "staticwebassets\\assetsHome\\img\\gallery\\gallery-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsHome\\img\\gallery\\gallery-4.jpg",
+      "PackagePath": "staticwebassets\\assetsHome\\img\\gallery\\gallery-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsHome\\img\\gallery\\gallery-5.jpg",
+      "PackagePath": "staticwebassets\\assetsHome\\img\\gallery\\gallery-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsHome\\img\\gallery\\gallery-6.jpg",
+      "PackagePath": "staticwebassets\\assetsHome\\img\\gallery\\gallery-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsHome\\img\\gallery\\gallery-7.jpg",
+      "PackagePath": "staticwebassets\\assetsHome\\img\\gallery\\gallery-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsHome\\img\\gallery\\gallery-8.jpg",
+      "PackagePath": "staticwebassets\\assetsHome\\img\\gallery\\gallery-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsHome\\img\\hero-img.png",
+      "PackagePath": "staticwebassets\\assetsHome\\img\\hero-img.png"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsHome\\img\\menu\\menu-item-1.png",
+      "PackagePath": "staticwebassets\\assetsHome\\img\\menu\\menu-item-1.png"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsHome\\img\\menu\\menu-item-2.png",
+      "PackagePath": "staticwebassets\\assetsHome\\img\\menu\\menu-item-2.png"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsHome\\img\\menu\\menu-item-3.png",
+      "PackagePath": "staticwebassets\\assetsHome\\img\\menu\\menu-item-3.png"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsHome\\img\\menu\\menu-item-4.png",
+      "PackagePath": "staticwebassets\\assetsHome\\img\\menu\\menu-item-4.png"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsHome\\img\\menu\\menu-item-5.png",
+      "PackagePath": "staticwebassets\\assetsHome\\img\\menu\\menu-item-5.png"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsHome\\img\\menu\\menu-item-6.png",
+      "PackagePath": "staticwebassets\\assetsHome\\img\\menu\\menu-item-6.png"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsHome\\img\\reservation.jpg",
+      "PackagePath": "staticwebassets\\assetsHome\\img\\reservation.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsHome\\img\\stats-bg.jpg",
+      "PackagePath": "staticwebassets\\assetsHome\\img\\stats-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsHome\\img\\team-shape.svg",
+      "PackagePath": "staticwebassets\\assetsHome\\img\\team-shape.svg"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsHome\\img\\testimonials\\testimonials-1.jpg",
+      "PackagePath": "staticwebassets\\assetsHome\\img\\testimonials\\testimonials-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsHome\\img\\testimonials\\testimonials-2.jpg",
+      "PackagePath": "staticwebassets\\assetsHome\\img\\testimonials\\testimonials-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsHome\\img\\testimonials\\testimonials-3.jpg",
+      "PackagePath": "staticwebassets\\assetsHome\\img\\testimonials\\testimonials-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsHome\\img\\testimonials\\testimonials-4.jpg",
+      "PackagePath": "staticwebassets\\assetsHome\\img\\testimonials\\testimonials-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsHome\\js\\main.js",
+      "PackagePath": "staticwebassets\\assetsHome\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsHome\\scss\\Readme.txt",
+      "PackagePath": "staticwebassets\\assetsHome\\scss\\Readme.txt"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsHome\\vendor\\aos\\aos.cjs.js",
+      "PackagePath": "staticwebassets\\assetsHome\\vendor\\aos\\aos.cjs.js"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsHome\\vendor\\aos\\aos.css",
+      "PackagePath": "staticwebassets\\assetsHome\\vendor\\aos\\aos.css"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsHome\\vendor\\aos\\aos.esm.js",
+      "PackagePath": "staticwebassets\\assetsHome\\vendor\\aos\\aos.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsHome\\vendor\\aos\\aos.js",
+      "PackagePath": "staticwebassets\\assetsHome\\vendor\\aos\\aos.js"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsHome\\vendor\\aos\\aos.js.map",
+      "PackagePath": "staticwebassets\\assetsHome\\vendor\\aos\\aos.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsHome\\vendor\\bootstrap-icons\\bootstrap-icons.css",
+      "PackagePath": "staticwebassets\\assetsHome\\vendor\\bootstrap-icons\\bootstrap-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsHome\\vendor\\bootstrap-icons\\bootstrap-icons.json",
+      "PackagePath": "staticwebassets\\assetsHome\\vendor\\bootstrap-icons\\bootstrap-icons.json"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsHome\\vendor\\bootstrap-icons\\bootstrap-icons.min.css",
+      "PackagePath": "staticwebassets\\assetsHome\\vendor\\bootstrap-icons\\bootstrap-icons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsHome\\vendor\\bootstrap-icons\\bootstrap-icons.scss",
+      "PackagePath": "staticwebassets\\assetsHome\\vendor\\bootstrap-icons\\bootstrap-icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsHome\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff",
+      "PackagePath": "staticwebassets\\assetsHome\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsHome\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets\\assetsHome\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsHome\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\assetsHome\\vendor\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsHome\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\assetsHome\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsHome\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\assetsHome\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsHome\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\assetsHome\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsHome\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\assetsHome\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsHome\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\assetsHome\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsHome\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\assetsHome\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsHome\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\assetsHome\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsHome\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\assetsHome\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsHome\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\assetsHome\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsHome\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\assetsHome\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsHome\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\assetsHome\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsHome\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\assetsHome\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsHome\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\assetsHome\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsHome\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\assetsHome\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsHome\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\assetsHome\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsHome\\vendor\\bootstrap\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\assetsHome\\vendor\\bootstrap\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsHome\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\assetsHome\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsHome\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\assetsHome\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsHome\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\assetsHome\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsHome\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\assetsHome\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsHome\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\assetsHome\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsHome\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\assetsHome\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsHome\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\assetsHome\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsHome\\vendor\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\assetsHome\\vendor\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsHome\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\assetsHome\\vendor\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsHome\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assetsHome\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsHome\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\assetsHome\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsHome\\vendor\\bootstrap\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\assetsHome\\vendor\\bootstrap\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsHome\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\assetsHome\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsHome\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\assetsHome\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsHome\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\assetsHome\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsHome\\vendor\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\assetsHome\\vendor\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsHome\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\assetsHome\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsHome\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\assetsHome\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsHome\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\assetsHome\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsHome\\vendor\\bootstrap\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\assetsHome\\vendor\\bootstrap\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsHome\\vendor\\bootstrap\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\assetsHome\\vendor\\bootstrap\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsHome\\vendor\\bootstrap\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\assetsHome\\vendor\\bootstrap\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsHome\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\assetsHome\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsHome\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\assetsHome\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsHome\\vendor\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\assetsHome\\vendor\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsHome\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assetsHome\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsHome\\vendor\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\assetsHome\\vendor\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsHome\\vendor\\glightbox\\css\\glightbox.css",
+      "PackagePath": "staticwebassets\\assetsHome\\vendor\\glightbox\\css\\glightbox.css"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsHome\\vendor\\glightbox\\css\\glightbox.min.css",
+      "PackagePath": "staticwebassets\\assetsHome\\vendor\\glightbox\\css\\glightbox.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsHome\\vendor\\glightbox\\css\\plyr.css",
+      "PackagePath": "staticwebassets\\assetsHome\\vendor\\glightbox\\css\\plyr.css"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsHome\\vendor\\glightbox\\css\\plyr.min.css",
+      "PackagePath": "staticwebassets\\assetsHome\\vendor\\glightbox\\css\\plyr.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsHome\\vendor\\glightbox\\js\\glightbox.js",
+      "PackagePath": "staticwebassets\\assetsHome\\vendor\\glightbox\\js\\glightbox.js"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsHome\\vendor\\glightbox\\js\\glightbox.min.js",
+      "PackagePath": "staticwebassets\\assetsHome\\vendor\\glightbox\\js\\glightbox.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsHome\\vendor\\php-email-form\\validate.js",
+      "PackagePath": "staticwebassets\\assetsHome\\vendor\\php-email-form\\validate.js"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsHome\\vendor\\purecounter\\purecounter_vanilla.js",
+      "PackagePath": "staticwebassets\\assetsHome\\vendor\\purecounter\\purecounter_vanilla.js"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsHome\\vendor\\purecounter\\purecounter_vanilla.js.map",
+      "PackagePath": "staticwebassets\\assetsHome\\vendor\\purecounter\\purecounter_vanilla.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsHome\\vendor\\swiper\\swiper-bundle.min.css",
+      "PackagePath": "staticwebassets\\assetsHome\\vendor\\swiper\\swiper-bundle.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsHome\\vendor\\swiper\\swiper-bundle.min.js",
+      "PackagePath": "staticwebassets\\assetsHome\\vendor\\swiper\\swiper-bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsHome\\vendor\\swiper\\swiper-bundle.min.js.map",
+      "PackagePath": "staticwebassets\\assetsHome\\vendor\\swiper\\swiper-bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assets\\material-dashboard.css",
+      "PackagePath": "staticwebassets\\assets\\material-dashboard.css"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assets\\material-dashboard.css.map",
+      "PackagePath": "staticwebassets\\assets\\material-dashboard.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsuserpanel\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assetsuserpanel\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsuserpanel\\css\\demo.css",
+      "PackagePath": "staticwebassets\\assetsuserpanel\\css\\demo.css"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsuserpanel\\css\\light-bootstrap-dashboard.css",
+      "PackagePath": "staticwebassets\\assetsuserpanel\\css\\light-bootstrap-dashboard.css"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsuserpanel\\fonts\\nucleo-icons.eot",
+      "PackagePath": "staticwebassets\\assetsuserpanel\\fonts\\nucleo-icons.eot"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsuserpanel\\fonts\\nucleo-icons.svg",
+      "PackagePath": "staticwebassets\\assetsuserpanel\\fonts\\nucleo-icons.svg"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsuserpanel\\fonts\\nucleo-icons.ttf",
+      "PackagePath": "staticwebassets\\assetsuserpanel\\fonts\\nucleo-icons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsuserpanel\\fonts\\nucleo-icons.woff",
+      "PackagePath": "staticwebassets\\assetsuserpanel\\fonts\\nucleo-icons.woff"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsuserpanel\\fonts\\nucleo-icons.woff2",
+      "PackagePath": "staticwebassets\\assetsuserpanel\\fonts\\nucleo-icons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsuserpanel\\img\\apple-icon.png",
+      "PackagePath": "staticwebassets\\assetsuserpanel\\img\\apple-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsuserpanel\\img\\default-avatar.png",
+      "PackagePath": "staticwebassets\\assetsuserpanel\\img\\default-avatar.png"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsuserpanel\\img\\faces\\face-0.jpg",
+      "PackagePath": "staticwebassets\\assetsuserpanel\\img\\faces\\face-0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsuserpanel\\img\\faces\\face-1.jpg",
+      "PackagePath": "staticwebassets\\assetsuserpanel\\img\\faces\\face-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsuserpanel\\img\\faces\\face-2.jpg",
+      "PackagePath": "staticwebassets\\assetsuserpanel\\img\\faces\\face-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsuserpanel\\img\\faces\\face-3.jpg",
+      "PackagePath": "staticwebassets\\assetsuserpanel\\img\\faces\\face-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsuserpanel\\img\\faces\\face-4.jpg",
+      "PackagePath": "staticwebassets\\assetsuserpanel\\img\\faces\\face-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsuserpanel\\img\\faces\\face-5.jpg",
+      "PackagePath": "staticwebassets\\assetsuserpanel\\img\\faces\\face-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsuserpanel\\img\\faces\\face-6.jpg",
+      "PackagePath": "staticwebassets\\assetsuserpanel\\img\\faces\\face-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsuserpanel\\img\\faces\\face-7.jpg",
+      "PackagePath": "staticwebassets\\assetsuserpanel\\img\\faces\\face-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsuserpanel\\img\\faces\\tim_vector.jpe",
+      "PackagePath": "staticwebassets\\assetsuserpanel\\img\\faces\\tim_vector.jpe"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsuserpanel\\img\\favicon.ico",
+      "PackagePath": "staticwebassets\\assetsuserpanel\\img\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsuserpanel\\img\\full-screen-image-3.jpg",
+      "PackagePath": "staticwebassets\\assetsuserpanel\\img\\full-screen-image-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsuserpanel\\img\\loading-bubbles.svg",
+      "PackagePath": "staticwebassets\\assetsuserpanel\\img\\loading-bubbles.svg"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsuserpanel\\img\\mask.png",
+      "PackagePath": "staticwebassets\\assetsuserpanel\\img\\mask.png"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsuserpanel\\img\\new_logo.png",
+      "PackagePath": "staticwebassets\\assetsuserpanel\\img\\new_logo.png"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsuserpanel\\img\\sidebar-1.jpg",
+      "PackagePath": "staticwebassets\\assetsuserpanel\\img\\sidebar-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsuserpanel\\img\\sidebar-2.jpg",
+      "PackagePath": "staticwebassets\\assetsuserpanel\\img\\sidebar-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsuserpanel\\img\\sidebar-3.jpg",
+      "PackagePath": "staticwebassets\\assetsuserpanel\\img\\sidebar-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsuserpanel\\img\\sidebar-4.jpg",
+      "PackagePath": "staticwebassets\\assetsuserpanel\\img\\sidebar-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsuserpanel\\img\\sidebar-5.jpg",
+      "PackagePath": "staticwebassets\\assetsuserpanel\\img\\sidebar-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsuserpanel\\img\\tim_80x80.png",
+      "PackagePath": "staticwebassets\\assetsuserpanel\\img\\tim_80x80.png"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsuserpanel\\js\\core\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assetsuserpanel\\js\\core\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsuserpanel\\js\\core\\jquery.3.2.1.min.js",
+      "PackagePath": "staticwebassets\\assetsuserpanel\\js\\core\\jquery.3.2.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsuserpanel\\js\\core\\popper.min.js",
+      "PackagePath": "staticwebassets\\assetsuserpanel\\js\\core\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsuserpanel\\js\\demo.js",
+      "PackagePath": "staticwebassets\\assetsuserpanel\\js\\demo.js"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsuserpanel\\js\\light-bootstrap-dashboard.js",
+      "PackagePath": "staticwebassets\\assetsuserpanel\\js\\light-bootstrap-dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsuserpanel\\js\\plugins\\bootstrap-datepicker.js",
+      "PackagePath": "staticwebassets\\assetsuserpanel\\js\\plugins\\bootstrap-datepicker.js"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsuserpanel\\js\\plugins\\bootstrap-notify.js",
+      "PackagePath": "staticwebassets\\assetsuserpanel\\js\\plugins\\bootstrap-notify.js"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsuserpanel\\js\\plugins\\bootstrap-switch.js",
+      "PackagePath": "staticwebassets\\assetsuserpanel\\js\\plugins\\bootstrap-switch.js"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsuserpanel\\js\\plugins\\chartist.min.js",
+      "PackagePath": "staticwebassets\\assetsuserpanel\\js\\plugins\\chartist.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsuserpanel\\js\\plugins\\nouislider.min.js",
+      "PackagePath": "staticwebassets\\assetsuserpanel\\js\\plugins\\nouislider.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsuserpanel\\sass\\lbd\\_alerts.scss",
+      "PackagePath": "staticwebassets\\assetsuserpanel\\sass\\lbd\\_alerts.scss"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsuserpanel\\sass\\lbd\\_bootstrap-switch.scss",
+      "PackagePath": "staticwebassets\\assetsuserpanel\\sass\\lbd\\_bootstrap-switch.scss"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsuserpanel\\sass\\lbd\\_buttons.scss",
+      "PackagePath": "staticwebassets\\assetsuserpanel\\sass\\lbd\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsuserpanel\\sass\\lbd\\_cards.scss",
+      "PackagePath": "staticwebassets\\assetsuserpanel\\sass\\lbd\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsuserpanel\\sass\\lbd\\_chartist.scss",
+      "PackagePath": "staticwebassets\\assetsuserpanel\\sass\\lbd\\_chartist.scss"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsuserpanel\\sass\\lbd\\_checkbox-radio-switch.scss",
+      "PackagePath": "staticwebassets\\assetsuserpanel\\sass\\lbd\\_checkbox-radio-switch.scss"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsuserpanel\\sass\\lbd\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\assetsuserpanel\\sass\\lbd\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsuserpanel\\sass\\lbd\\_footers.scss",
+      "PackagePath": "staticwebassets\\assetsuserpanel\\sass\\lbd\\_footers.scss"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsuserpanel\\sass\\lbd\\_inputs.scss",
+      "PackagePath": "staticwebassets\\assetsuserpanel\\sass\\lbd\\_inputs.scss"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsuserpanel\\sass\\lbd\\_misc.scss",
+      "PackagePath": "staticwebassets\\assetsuserpanel\\sass\\lbd\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsuserpanel\\sass\\lbd\\_mixins.scss",
+      "PackagePath": "staticwebassets\\assetsuserpanel\\sass\\lbd\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsuserpanel\\sass\\lbd\\_navbars.scss",
+      "PackagePath": "staticwebassets\\assetsuserpanel\\sass\\lbd\\_navbars.scss"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsuserpanel\\sass\\lbd\\_partial-nucleo-icons.scss",
+      "PackagePath": "staticwebassets\\assetsuserpanel\\sass\\lbd\\_partial-nucleo-icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsuserpanel\\sass\\lbd\\_responsive.scss",
+      "PackagePath": "staticwebassets\\assetsuserpanel\\sass\\lbd\\_responsive.scss"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsuserpanel\\sass\\lbd\\_sidebar-and-main-panel.scss",
+      "PackagePath": "staticwebassets\\assetsuserpanel\\sass\\lbd\\_sidebar-and-main-panel.scss"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsuserpanel\\sass\\lbd\\_tables.scss",
+      "PackagePath": "staticwebassets\\assetsuserpanel\\sass\\lbd\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsuserpanel\\sass\\lbd\\_typography.scss",
+      "PackagePath": "staticwebassets\\assetsuserpanel\\sass\\lbd\\_typography.scss"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsuserpanel\\sass\\lbd\\_variables.scss",
+      "PackagePath": "staticwebassets\\assetsuserpanel\\sass\\lbd\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsuserpanel\\sass\\lbd\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\assetsuserpanel\\sass\\lbd\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsuserpanel\\sass\\lbd\\mixins\\_cards.scss",
+      "PackagePath": "staticwebassets\\assetsuserpanel\\sass\\lbd\\mixins\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsuserpanel\\sass\\lbd\\mixins\\_chartist.scss",
+      "PackagePath": "staticwebassets\\assetsuserpanel\\sass\\lbd\\mixins\\_chartist.scss"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsuserpanel\\sass\\lbd\\mixins\\_icons.scss",
+      "PackagePath": "staticwebassets\\assetsuserpanel\\sass\\lbd\\mixins\\_icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsuserpanel\\sass\\lbd\\mixins\\_inputs.scss",
+      "PackagePath": "staticwebassets\\assetsuserpanel\\sass\\lbd\\mixins\\_inputs.scss"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsuserpanel\\sass\\lbd\\mixins\\_labels.scss",
+      "PackagePath": "staticwebassets\\assetsuserpanel\\sass\\lbd\\mixins\\_labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsuserpanel\\sass\\lbd\\mixins\\_morphing-buttons.scss",
+      "PackagePath": "staticwebassets\\assetsuserpanel\\sass\\lbd\\mixins\\_morphing-buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsuserpanel\\sass\\lbd\\mixins\\_navbars.scss",
+      "PackagePath": "staticwebassets\\assetsuserpanel\\sass\\lbd\\mixins\\_navbars.scss"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsuserpanel\\sass\\lbd\\mixins\\_social-buttons.scss",
+      "PackagePath": "staticwebassets\\assetsuserpanel\\sass\\lbd\\mixins\\_social-buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsuserpanel\\sass\\lbd\\mixins\\_tabs.scss",
+      "PackagePath": "staticwebassets\\assetsuserpanel\\sass\\lbd\\mixins\\_tabs.scss"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsuserpanel\\sass\\lbd\\mixins\\_transparency.scss",
+      "PackagePath": "staticwebassets\\assetsuserpanel\\sass\\lbd\\mixins\\_transparency.scss"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsuserpanel\\sass\\lbd\\mixins\\_vendor-prefixes.scss",
+      "PackagePath": "staticwebassets\\assetsuserpanel\\sass\\lbd\\mixins\\_vendor-prefixes.scss"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsuserpanel\\sass\\lbd\\plugins\\_animate.scss",
+      "PackagePath": "staticwebassets\\assetsuserpanel\\sass\\lbd\\plugins\\_animate.scss"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsuserpanel\\sass\\lbd\\plugins\\_datetime-picker.scss",
+      "PackagePath": "staticwebassets\\assetsuserpanel\\sass\\lbd\\plugins\\_datetime-picker.scss"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\assetsuserpanel\\sass\\light-bootstrap-dashboard.scss",
+      "PackagePath": "staticwebassets\\assetsuserpanel\\sass\\light-bootstrap-dashboard.scss"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\images\\2d5c8202-5667-4c2f-a2ac-8d199ce84ea9MicrosoftTeams-image.png",
+      "PackagePath": "staticwebassets\\images\\2d5c8202-5667-4c2f-a2ac-8d199ce84ea9MicrosoftTeams-image.png"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\images\\5f1c1e02-6923-457e-9007-60eee8234d02Screenshot from 2023-08-14 15-07-20.png",
+      "PackagePath": "staticwebassets\\images\\5f1c1e02-6923-457e-9007-60eee8234d02Screenshot from 2023-08-14 15-07-20.png"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\images\\d0f191d0-11ed-4eaa-aedb-4c7c7c62f864Screenshot from 2023-08-14 15-04-31.png",
+      "PackagePath": "staticwebassets\\images\\d0f191d0-11ed-4eaa-aedb-4c7c7c62f864Screenshot from 2023-08-14 15-04-31.png"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hamza\\source\\repos\\Tahaluf\\Tahaluf\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Tahaluf.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Tahaluf.props",
+      "PackagePath": "build\\Tahaluf.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Tahaluf.props",
+      "PackagePath": "buildMultiTargeting\\Tahaluf.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Tahaluf.props",
+      "PackagePath": "buildTransitive\\Tahaluf.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

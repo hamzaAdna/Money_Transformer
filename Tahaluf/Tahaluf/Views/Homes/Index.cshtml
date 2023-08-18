@@ -1,0 +1,65 @@
+﻿@model IEnumerable<Tahaluf.Models.Home>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_LayoutUserPanel.cshtml";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Imagepath)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Logopath)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Bankname)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Paragraph)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Websitephone)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Wensiteemail)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                    <img src="/images/@item.Imagepath" width="100" height="100" style="border:solid; border-radius:50px;" />
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Logopath)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Bankname)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Paragraph)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Websitephone)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Wensiteemail)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

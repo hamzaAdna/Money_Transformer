@@ -1,0 +1,67 @@
+﻿@model Tahaluf.Models.Visacard
+
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Views/Shared/_LayoutUserPanel.cshtml";
+}
+
+<h1>Edit</h1>
+
+<h4>Visacard</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Id" />
+            <div class="form-group">
+                <label asp-for="Name" class="control-label"></label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Cvv" class="control-label"></label>
+                <input asp-for="Cvv" class="form-control" />
+                <span asp-validation-for="Cvv" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Cardnumber" class="control-label"></label>
+                <input asp-for="Cardnumber" class="form-control" />
+                <span asp-validation-for="Cardnumber" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Expiredate" class="control-label"></label>
+                <input asp-for="Expiredate" class="form-control" />
+                <span asp-validation-for="Expiredate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Goodthrow" class="control-label"></label>
+                <input asp-for="Goodthrow" class="form-control" />
+                <span asp-validation-for="Goodthrow" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Balance" class="control-label"></label>
+                <input asp-for="Balance" class="form-control" />
+                <span asp-validation-for="Balance" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Email" class="control-label"></label>
+                <input asp-for="Email" class="form-control" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Useracount" class="control-label"></label>
+                <select asp-for="Useracount" class="form-control" asp-items="ViewBag.Useracount"></select>
+                <span asp-validation-for="Useracount" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+

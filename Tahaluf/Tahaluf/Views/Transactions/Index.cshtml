@@ -1,0 +1,99 @@
+﻿@model IEnumerable<Tahaluf.Models.Transaction>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_LayoutAdminPanel.cshtml";
+}
+
+<h1>Index</h1>
+<form asp-action="Index" asp-controller="Transactions">
+
+    <span class="text text-light">StartDate:</span>
+    <input type="date" class="form-control" name="startdate" id="startdate"  />
+    <span class="text text-light">EndDate:</span>
+
+    <input type="date" class="form-control" name="enddate" id="enddate"   />
+
+    <button type="submit" class="btn btn-outline-info" >Search</button>
+
+</form>
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Transvlaue)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Senderiban)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Receiveriban)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Commission)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Transdate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Enddate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Wallet)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Transvlaue)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Senderiban)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Receiveriban)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Commission)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Transdate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Enddate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Wallet.Id)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+<script>
+    function validateDates() {
+        var startDate = new Date(document.getElementById('startdate').value);
+        var endDate = new Date(document.getElementById('enddate').value);
+
+        if (endDate < startDate) {
+            endDate.value = ''; // Reset end date value
+            alert("End date should be greater than start date.");
+        } else if (startDate > endDate) {
+            startDate.value = ''; // Reset end date value
+
+            alert("Start date should be less than end date.");
+        } else {
+            alert("Dates are valid.");
+        }
+    }
+</script>
